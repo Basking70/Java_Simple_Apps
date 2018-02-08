@@ -1,5 +1,5 @@
 
-package javaapplication3;
+package cointoss;
 
 import java.util.Random;
 
