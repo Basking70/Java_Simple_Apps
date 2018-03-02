@@ -60,7 +60,7 @@ public class LibraryCatalogue {
         currentDay = day;
     }
     
-    //Instance methodes:
+    //Instance methodes: see below
     
     public void checkOut(String title){
         Book book = getBook(title);
